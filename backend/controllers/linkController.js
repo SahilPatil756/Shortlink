@@ -13,6 +13,11 @@ const createLink = async (req, res) => {
       return res.status(400).json({ message: 'Please provide a URL' });
     }
 
+    let formattedUrl = originalUrl;
+    if (!/^https?:\/\//i.test(formattedUrl)) {
+      formattedUrl = 'http://' + formattedUrl;
+    }
+
     let shortCode = customAlias;
 
     if (shortCode) {
@@ -32,7 +37,7 @@ const createLink = async (req, res) => {
     }
 
     const link = await Link.create({
-      originalUrl,
+      originalUrl: formattedUrl,
       shortCode,
       customAlias,
       userId: req.user ? req.user._id : null
