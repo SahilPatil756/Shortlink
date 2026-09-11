@@ -1,4 +1,4 @@
-<img width="1919" height="877" alt="Screenshot 2026-05-07 231650" src="https://github.com/user-attachments/assets/e2b3755b-07b7-4ec5-b529-60dc9c2732f2" /># 🔗 ShortLink — Smart URL Shortener with Analysis
+# 🔗 ShortLink — Smart URL Shortener with Analysis
 
 <p align="center">
   <strong>Shorten Your Links. Expand Your Reach.</strong>
