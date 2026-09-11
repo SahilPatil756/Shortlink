@@ -1,4 +1,4 @@
-# 🔗 ShortLink — Smart URL Shortener with Analysis
+<img width="1919" height="877" alt="Screenshot 2026-05-07 231650" src="https://github.com/user-attachments/assets/e2b3755b-07b7-4ec5-b529-60dc9c2732f2" /># 🔗 ShortLink — Smart URL Shortener with Analysis
 
 <p align="center">
   <strong>Shorten Your Links. Expand Your Reach.</strong>
@@ -382,44 +382,6 @@ ShortLink/
 > Modify the structure according to your actual project files.
 
 ---
-
-# 📸 Screenshots
-
-## 🏠 Home Page
-
-The home page provides a simple interface for entering a long URL and generating a shortened link.
-
-![ShortLink Home Page](home.png)
-
----
-
-## 🔐 Login Page
-
-The login page allows registered users to securely access their accounts.
-
-![ShortLink Login Page](login.png)
-
----
-
-## 📊 Dashboard
-
-The dashboard provides URL creation, custom alias support, link management, and analytics access.
-
-![ShortLink Dashboard](dashboard.png)
-
----
-
-## 📈 Analytics Dashboard
-
-The analytics page displays total clicks, click trends, top countries, and referrer information.
-
-![ShortLink Analytics](analytics.png)
-
----
-
-# 📊 Analytics
-
-ShortLink provides an analytics dashboard for understanding link performance.
 
 ### Metrics
 
